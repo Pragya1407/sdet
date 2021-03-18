@@ -1,0 +1,10 @@
+REM   Script: Activity_4
+REM   ALTER UPDATE
+
+ALTER TABLE SALESMAN 
+ADD grade int;
+
+UPDATE SALESMAN SET GRADE = 100;
+
+SELECT * FROM salesman;
+
