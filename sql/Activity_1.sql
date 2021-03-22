@@ -8,5 +8,4 @@ salesman_city varchar2(20),
 commission int 
 );
 
-DESCRIBE  SALESMAN;
 
